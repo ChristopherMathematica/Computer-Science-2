@@ -1,6 +1,6 @@
 import java.lang.Math; //importing Math class in Java
 
-public class exercise3{
+public class RandMonthGenerator{
     public static void main(String args[]) {
     //Variables indexing months
     int janMon = 1;
