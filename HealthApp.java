@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-public class exercise2{
+public class HealthApp{
     public static void main(String args[]) {
     
       final double oneLb = 0.45359237;
